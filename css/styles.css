@@ -16,7 +16,7 @@
     text-decoration: none;
 }
 
-.body {
+body {
     font-family: 'Roboto', sans-serif;
 }
 
@@ -75,6 +75,7 @@
 }
 
 .modal-btn {
+    font-family: var(--primary-fond);
     font-weight: 700;
     font-size: 16px;
     line-height: 1.88;
@@ -137,6 +138,7 @@
 
 .contact-footer {
     font-family: var(--primary-fond);
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
@@ -146,6 +148,7 @@
 
 .contact-info {
     font-family: var(--primary-fond);
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
